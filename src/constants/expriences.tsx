@@ -5,6 +5,7 @@ export const EXPERIENCES = [
         duration: "March 2022 - Present",
         location: "Dhaka, Bangladesh",
         points: [
+            `Designed crypto-to-fiat interoperability layer using ISO 4217-aligned currency normalization for internal on/off-ramp calculations and ISO 20022 messaging adapters for banking and payment-system integration.`,
             `Collaborated with the University of Stavanger on a Norwegian Research Council–funded (Grant No. 308909)
 research focused on B2B/B2G healthcare data exchange policy and governance.`, 
             `Led development of a Web3 hotel-booking dApp with NFT reservations, coordinating frontend/backend

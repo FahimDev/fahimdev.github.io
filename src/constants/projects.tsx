@@ -533,6 +533,7 @@ export const PROJECTS: any[] = [
             "Delivered stablecoin-based settlement layer that eliminates the need for nostro pre-funding, enabling real-time transfers and reducing capital requirements.",
         ],
         contributions: [
+            "Designed FinCube’s crypto-to-fiat interoperability layer using ISO 4217-aligned currency normalization for internal on/off-ramp calculations and ISO 20022 messaging adapters for banking and payment-system integration.",
             "Spearheaded the design and development of the enterprise-grade dApp architecture for global B2B and institutional finance clients.",
             "Built the compliance-first infrastructure layer bridging digital assets with legacy ERP, custody, and treasury systems using observability tools and smart contract anchors.",
             "Engineered support for cross-border programmable treasury management with audit-grade proof-of-reserve and AML-compliant custody mapping.",

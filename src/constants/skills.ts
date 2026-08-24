@@ -1,22 +1,43 @@
 export const SKILLS = [
-    {
-        category: "Languages",
-        options: "Rust, Solidity, TypeScript (JS), Python",
-    },
-    {
-        category: "Frameworks",
-        options: "NestJS, Django, Hardhat, Fabric",
-    },
-    {
-        category: "Software Engineering & Architecture",
-        options: "Object Oriented Design (OOD), UML, Design Patterns, SOLID Principles, Exchange Patterns, Microservice, Message Broker, GraphQL, Node.js, Event Driven Architecture (EDA), Financial Data Exchange (FDX)",
-    },
-    {
-        category: "Web3 Ecosystems",
-        options: "DAO Governance, dApp (Decentralized Application), DeFi, DEX, NFT Marketplace Microstructure, Stablecoin, HardHat, The Graph, Proxy Smart Contract, Zero-knowledge proof (ZKP), Alchemy, Internet Computer Protocol (ICP), Hyperledger Fabric",
-    },
-    {
-        category: "DevOps, Monitoring & Observability",
-        options: "Docker, Docker Compose, GitHub Actions, Loki, OpenTelemetry,Grafana, pm2, Kong Proxy API Gateway, Kong Lua Plugin",
-    },
+  {
+    category: "Languages & Systems Programming",
+    options:
+      "TypeScript (JavaScript), Rust, Solidity, Python",
+  },
+
+  {
+    category: "Backend & Distributed Systems",
+    options:
+      "Node.js, NestJS, Django, Microservices, Event-Driven Architecture (EDA), Distributed Systems, Message Brokers, REST, GraphQL, WebSocket, IPN, Idempotency, Reconciliation, Retry & Backpressure, Circuit Breaker",
+  },
+
+  {
+    category: "Software Architecture & Reliability",
+    options:
+      "Object-Oriented Design (OOD), Domain-Driven Design (DDD), SOLID Principles, Design Patterns, Enterprise Integration Patterns, ICONIX, UML, Rule Engines, Fault Tolerance, Multi-Source Event Processing",
+  },
+
+  {
+    category: "Data, AI & Agentic Systems",
+    options:
+      "PostgreSQL, MongoDB, Redis, OpenSearch K-NN, Vector Search, RAG, LangChain, MCP, LLM-Orchestrated Workflows, Fraud & Anomaly Feature Pipelines, AI-DLC",
+  },
+
+  {
+    category: "Financial & Regulated Systems",
+    options:
+      "ISO 4217, ISO 20022, Financial Data Exchange (FDX), KYC/AML Workflows, On-Ramp & Off-Ramp Systems, Payment & Treasury Settlement, Proof-of-Reserve, Financial Reconciliation, Audit-Grade Traceability",
+  },
+
+  {
+    category: "Security, Web3 & Digital Asset Infrastructure",
+    options:
+      "EVM, Solidity Smart Contracts, Rust, Hyperledger Fabric, Stablecoin Payment Rails, Chainlink Oracles, The Graph, Blockchain Forensics, Upgradeable Smart Contracts, DAO Governance, Zero-Knowledge Proofs (ZKP)",
+  },
+
+  {
+    category: "Cloud, DevOps & Observability",
+    options:
+      "Docker, Docker Compose, GitHub Actions, Kong API Gateway, Kong Lua Plugins, OpenTelemetry, Prometheus, Grafana, Loki, Distributed Tracing, Structured Logging, PM2",
+  },
 ];
